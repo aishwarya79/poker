@@ -1,0 +1,7 @@
+com\training\model\Card.class
+com\training\poker\PokerGame.class
+com\training\model\PlayerHands.class
+com\training\enums\CardRank.class
+com\training\utils\PokerGameUtils.class
+com\training\enums\HandRank.class
+com\training\model\Player.class
